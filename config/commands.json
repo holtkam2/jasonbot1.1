@@ -15,5 +15,16 @@
 
 	"error": {
 		"exclude": true
+	},
+
+	"Yo": {
+		"alias": ["Yo jasonbot", "Hello jasonbot"],
+		"description": "inital greeting"
+	},
+
+	"favoriteColor": {
+		"alias": ["What is your favorite color?"]
 	}
+
+
 }
