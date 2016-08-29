@@ -13,5 +13,5 @@ module.exports = function (param) {
 
     // send back the response
     // more on this method here: https://api.slack.com/methods/chat.postMessage
-    util.postMessage(param.channel, 'I have no favorites because I am a robot');
+    util.postMessage(param.channel, 'I have no favorites because I am a robot.');
 };
