@@ -1,6 +1,6 @@
 var slackTerminal = require('slack-terminalize');
 
-slackTerminal.init('xoxb-74099110612-RRlGZVrn7VlExi62Rz6NLn8C', {
+slackTerminal.init('xoxb-74099110612-R8T2wdNfDNzcFFNiKEYC2f3q', {
 
 }, {
 

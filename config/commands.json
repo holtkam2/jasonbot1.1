@@ -24,7 +24,29 @@
 
 	"favoriteColor": {
 		"alias": ["What is your favorite color?"]
+	},
+
+	"IntroduceYourself" : {
+		"alias": ["jasonbot, introduce yourself."]
+	},
+
+	"pepTalk" : {
+		"alias" : ["Pick someone for a pepTalk!"]
+	},
+
+	"showSpace" : {
+		"alias" : ["Who should show off their space next?"]
 	}
 
 
 }
+
+
+
+
+
+
+
+
+
+
