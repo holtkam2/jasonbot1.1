@@ -27,7 +27,7 @@
 	},
 
 	"IntroduceYourself" : {
-		"alias": ["jasonbot, introduce yourself."]
+		"alias": ["introduce yourself."]
 	},
 
 	"pepTalk" : {
@@ -36,6 +36,10 @@
 
 	"showSpace" : {
 		"alias" : ["Who should show off their space next?"]
+	},
+
+	"main" : {
+		"alias" : ["boot up main"]
 	}
 
 
