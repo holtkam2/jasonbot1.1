@@ -40,6 +40,10 @@
 
 	"main" : {
 		"alias" : ["boot up main"]
+	},
+
+	"thanks" : {
+		"alias" : ["Thanks for the demo"]
 	}
 
 
